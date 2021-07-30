@@ -16,7 +16,7 @@ div.id="container"
 </div> */}
 
 let div2 = document.createElement("div");   // Create a <button> element
- div2.innerHTML = "On load Zoom in Transition";                   // Insert text
+ div2.innerHTML = "On load Zoom in Transition test, passed";                   // Insert text
 div.appendChild(div2);  
 
 div2.id="content";
